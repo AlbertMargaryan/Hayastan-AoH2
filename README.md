@@ -28,10 +28,11 @@ AVAILABLE LANGUAGES: RUSSIAN, ENGLISH, ARMENIAN
 
 👇DOWNLOAD LINK👇
 
-🖥️ PC: https://bit.ly/3jw2rwA \n
+🖥️ PC: https://bit.ly/3jw2rwA 
 📱 ANDROID: https://bit.ly/3FSsHc3
 
- 
-\n
+ > [!NOTE]
+> Our Social networks: ![vk.com](https://vk.com/hayastanaoh)
+
 ![New update](http://www.ageofcivilizationsgame.com/uploads/monthly_2022_12/4en.png.1c9496218acd402dfa5f64a67874c120.png)
 
