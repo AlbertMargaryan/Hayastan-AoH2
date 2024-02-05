@@ -5,6 +5,8 @@
 The Hayastan mod includes two maps, the first consisting of 1571 (503 new, and many reworked) provinces, including the Armenian Highlands, all of Asia Minor, Cilicia, Pontos, Mesopotamia, the Levant, Arran part of the Balkans, Iran, the Arabian Desert, the Lower Nile, Caucasus. The second is a map of Artsakh with 426 provinces.
 
 ## There are a total of 58 scenarios in the regular map (17 new ones), and 15 scenarios for the map of Artsakh
+Full list is available in our forum post: ![\*click*](http://www.ageofcivilizationsgame.com/topic/220388-armenia-hayastan-mod-v20-new-latest-update)
+
 
 ## Other changes:
 
@@ -22,9 +24,7 @@ Moves required to borrow have been increased to 2.4
 Boilers have been strengthened 4 times  
 Buildings have been changed, and much more  
 
-AVAILABLE LANGUAGES: RUSSIAN, ENGLISH, ARMENIAN  
-
- 
+**AVAILABLE LANGUAGES: RUSSIAN, ENGLISH, ARMENIAN**  
 
 👇DOWNLOAD LINK👇
 
