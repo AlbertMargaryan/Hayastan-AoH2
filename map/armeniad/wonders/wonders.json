@@ -1,0 +1,79 @@
+{
+	wonders:
+	[
+		{
+			Name: "Ararat",
+			x: 2109,
+			y: 661,
+			SinceYear: -2500,
+			UntilYear: 100000,
+			Image: "ararat.png",
+			Wiki:"Wikipedia:Unusual_articles"
+		},
+		{
+			Name: "Erevan Fortress",
+			x: 2127,
+			y: 586,
+			SinceYear: 600,
+			UntilYear: 1919,
+			Image: "yrvnf.png",
+			Wiki:"Wikipedia:Unusual_articles"
+		},
+		{
+			Name: "Lori Fortress",
+			x: 2145,
+			y: 475,
+			SinceYear: 1000,
+			UntilYear: 1919,
+			Image: "lorif.png",
+			Wiki:"Wikipedia:Unusual_articles"
+		},
+		{
+			Name: "Narikilla",
+			x: 2163,
+			y: 374,
+			SinceYear: 300,
+			UntilYear: 1827,
+			Image: "narik.png",
+			Wiki:"Wikipedia:Unusual_articles"
+		},
+		{
+			Name: "Gandzak Fortress",
+			x: 2352,
+			y: 511,
+			SinceYear: 1500,
+			UntilYear: 1919,
+			Image: "gndzf.png",
+			Wiki:"Wikipedia:Unusual_articles"
+		},
+		{
+			Name: "Edjmiatsin",
+			x: 2112,
+			y: 583,
+			SinceYear: 1500,
+			UntilYear: 1919,
+			Image: "edjm.png",
+			Wiki:"Wikipedia:Unusual_articles"
+		},
+		{
+			Name: "Hagia Sophia",
+			x: 359,
+			y: 465,
+			SinceYear: 500,
+			UntilYear: 100000,
+			Image: "sophia.png",
+			Wiki:"Wikipedia:Unusual_articles"
+		},
+		{
+			Name: "Castle of Kars",
+			x: 1974,
+			y: 513,
+			SinceYear: 800,
+			UntilYear: 100000,
+			Image: "kars.png",
+			Wiki:"Wikipedia:Unusual_articles"
+		},
+	],
+	
+	name: armeniad
+}

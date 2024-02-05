@@ -1,0 +1,18 @@
+{
+	Map: [
+		{
+			MapName: "armeniad",
+			Author: "Albert Margaryan",
+			BackgroundName: "Armeniad",
+			ContinentsPackage: "Earth6"
+			RegionsPackage: "Earth_AoC2",
+			NumberOfProvinces: 1571, 
+			MapScale: 3,
+			WorldMap: false,
+			Scenario: "testScenario",
+			Wiki: "Wikipedia:Unusual_articles"
+		},
+	],
+	
+	Age_of_Civilizations: Map
+}
