@@ -33,7 +33,7 @@ Full list is available in our forum post: ![\*click*](http://www.ageofcivilizati
 🖥️ PC: https://bit.ly/3jw2rwA   
 📱 ANDROID: https://bit.ly/3FSsHc3  
 
- > [![Hey](NOTE)]
+> [!NOTE]
 > Our Social networks: ![vk.com](https://vk.com/hayastanaoh)  
 
 ![New update](http://www.ageofcivilizationsgame.com/uploads/monthly_2022_12/4en.png.1c9496218acd402dfa5f64a67874c120.png)
