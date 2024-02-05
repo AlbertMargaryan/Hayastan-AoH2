@@ -33,7 +33,7 @@ AVAILABLE LANGUAGES: RUSSIAN, ENGLISH, ARMENIAN
 
  
 
-![](1en.thumb.png.74cc21ab69665750418953998d3110f7.png)
+![New update](http://www.ageofcivilizationsgame.com/uploads/monthly_2022_12/4en.png.1c9496218acd402dfa5f64a67874c120.png)
 
 ![](2en.thumb.png.ee4c636802dba3f2efaf6923a2c6a420.png)
 
