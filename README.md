@@ -2,7 +2,7 @@
 
 ## **🇦🇲 HAYASTAN** 
 
-The very first mod focused on Armenia, which has a long and interesting history and neighbors. The borders of Armenia have changed over the years and you have the opportunity to sit on the throne of Armenia and make it Great again.
+The very first modification of **Age of History 2** focused on Armenia, which has a long and interesting history and neighbors. The borders of Armenia have changed over the years and you have the opportunity to sit on the throne of Armenia and make it Great again.
 
 The Hayastan mod includes two maps, the first consisting of 1571 provinces  (503 new, and many reworked), including the Armenian Highlands, all of Asia Minor, Cilicia, Pontos, Mesopotamia, the Levant, Arran, part of the Balkans, Iran, the Arabian Desert, the Lower Nile, Caucasus. The second is a map of Artsakh with 426 provinces.
 
@@ -21,10 +21,10 @@ Full list is available in our forum post: ![\*click*](http://www.ageofcivilizati
 
 ## **💻 Code changes:**  
 
-The minimum army to attack has been increased to 100.  
-Moves required to borrow have been increased to 2.4.  
-Pockets have been strengthened 4 times.  
-Buildings have been changed, *and much more...*   
+🔫 The minimum army to attack has been increased to 100.  
+💵 Moves required to borrow money have been increased to 2.4.  
+🥘 Pockets have been strengthened 4 times.  
+🏭 Buildings have been changed, *and much more...*   
 
 **🌐 AVAILABLE LANGUAGES: RUSSIAN, ENGLISH, ARMENIAN** 
 
