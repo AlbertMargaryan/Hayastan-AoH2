@@ -33,19 +33,19 @@ AVAILABLE LANGUAGES: RUSSIAN, ENGLISH, ARMENIAN
 
  
 
-(1en.thumb.png.74cc21ab69665750418953998d3110f7.png)
+![](1en.thumb.png.74cc21ab69665750418953998d3110f7.png)
 
-(2en.thumb.png.ee4c636802dba3f2efaf6923a2c6a420.png)
+![](2en.thumb.png.ee4c636802dba3f2efaf6923a2c6a420.png)
 
-(3en.thumb.png.cc56cff74e28fa777053fa584d689e97.png)
+![](3en.thumb.png.cc56cff74e28fa777053fa584d689e97.png)
 
-(4en.thumb.png.e8898b4f5b2d289a29755f8b99570512.png)
+![](4en.thumb.png.e8898b4f5b2d289a29755f8b99570512.png)
 
-(5.thumb.png.75ef7dd70f3e1ccccf072936995be8f7.png)
+![](5.thumb.png.75ef7dd70f3e1ccccf072936995be8f7.png)
 
-(8en.thumb.png.e6c1e6c5b813ac099a7e5e4ddc9e49ab.png)
+![](8en.thumb.png.e6c1e6c5b813ac099a7e5e4ddc9e49ab.png)
 
-(6en.thumb.png.2bbc6678c22d193e87eb229571e7f642.png)
+![](6en.thumb.png.2bbc6678c22d193e87eb229571e7f642.png)
 
-(9.thumb.png.486ce1cc709e579af7d8aa3d17495134.png)
+![](9.thumb.png.486ce1cc709e579af7d8aa3d17495134.png)
 ​
